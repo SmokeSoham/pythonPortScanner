@@ -28,9 +28,8 @@ def print_banner():
 Welcome to ERROR - Online Port Scanner!""")
     print(Fore.GREEN + """
     MADE BY-  
-    AYUSHMAN MISRA
-    MOHIT MARWAH
-    DRISHTI SINGHAL
+    SOHAM JAIN
+    PIYUSH NEGI
     """)
 
 # Threading setup
